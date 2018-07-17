@@ -1,6 +1,5 @@
-Project Leader:Shivam Kolekar
+Project Leader:Atharva Muley
 
 Project Members:
-2)Aditya Shetty
-3)Atharva Muley
-4)Vinit Jain
+1)Aditya Shetty
+2)Vinit Jain
