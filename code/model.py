@@ -8,7 +8,6 @@ from keras.layers import Lambda, Conv2D, MaxPooling2D, Dropout, Dense, Flatten
 from utils import INPUT_SHAPE, batch_generator
 import argparse
 import os
-np.random.seed(0)
 
 data_dir = 'data'
 test_size = 0.2
